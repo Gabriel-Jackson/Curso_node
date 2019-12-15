@@ -1,0 +1,23 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de Noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Jackson/Curso_node.git"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Jackson/Curso_node/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Jackson/Curso_node#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
